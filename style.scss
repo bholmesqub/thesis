@@ -30,6 +30,16 @@ body {
   width: 100%;
 }
 
+th {
+  text-align: center;
+  font-weight: bold;
+  padding: 2px;
+}
+
+td {
+  padding: 2px;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
