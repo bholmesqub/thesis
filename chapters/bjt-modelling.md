@@ -7,7 +7,7 @@ title: "Bipolar Junction Transistor modelling for Virtual Analogue"
 ## Rangemaster comparison
 
 To further understand the Rangemaster in a real scenario, here guitar signals are compared. The signal is a chord normalised to have a peak value of 1 V. The signal is then processed at 8x oversampling through the Rangemaster for the three models: Ebers-Moll (EM), DC Gummel-Poon (GP), and AC Gummel-Poon. The waveforms are displayed below:
-![Difference between Rangemaster outputs](../../images/rm-diff.png)
+![Difference between Rangemaster outputs](../../images/bjt-modelling/rm-diff.png)
 
 ### Sound examples
 
