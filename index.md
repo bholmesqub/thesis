@@ -8,10 +8,10 @@ Companion content for my PhD thesis entitled "Guitar Effects-Pedal Emulation and
 ## Chapters
 
 ### 1. Introduction
-### 2. Circuit modelling and identification
+### 2. [Circuit modelling and identification](./chapters/circuit-modelling-identification)
 ### 3. Root finding algorithms for nonlinear physical circuits
 ### 4. [Bipolar Junction Transistor modelling for Virtual Analogue](./chapters/bjt-modelling)
-### 5. Identification problem design and analysis
+### 5. [Identification problem design and analysis](./chapters/identification-design)
 ### 6. [Calibration of the Dallas Rangemaster model](./chapters/calibration)
 ### 7. [Parameter estimation of tone stack and common-emitter circuits](./chapters/parameter-estimation)
 
