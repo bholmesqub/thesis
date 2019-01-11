@@ -3,6 +3,7 @@ layout: page
 title: "Guitar Effects-Pedal Emulation and Identification"
 ---
 
+![Rangemaster measurement setup]({{site.baseurl}}/images/rangemaster-measurement.jpg)
 Companion content for the PhD thesis entitled "Guitar Effects-Pedal Emulation and Identification".
 
 ## Chapters
