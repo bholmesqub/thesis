@@ -3,7 +3,7 @@ layout: page
 title: "Guitar Effects-Pedal Emulation and Identification"
 ---
 
-Companion content for my PhD thesis entitled "Guitar Effects-Pedal Emulation and Identification".
+Companion content for the PhD thesis entitled "Guitar Effects-Pedal Emulation and Identification".
 
 ## Chapters
 
@@ -15,7 +15,7 @@ Companion content for my PhD thesis entitled "Guitar Effects-Pedal Emulation and
 ### 6. [Calibration of the Dallas Rangemaster model](./chapters/calibration)
 ### 7. [Parameter estimation of tone stack and common-emitter circuits](./chapters/parameter-estimation)
 
-## E-Appendices
+## Further resources
 
 ### A. [NI 6251 Datasheet](./files/NI_6251.pdf)
 ### B. [DE-5000 Datasheet](./files/DE-5000.pdf)
