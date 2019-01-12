@@ -5,7 +5,7 @@ title: "Redundancy analysis of an RC circuit using MATLAB"
 
 # Redundancy analysis of an RC circuit using MATLAB
 
-This page demonstrates how to detect redundancy in a circuit model, using the RC circuit as a case study. First the transfer function is derived symbolically using Modified Nodal Analysis (MNA), from which all coefficients containing parameters is extracted. This exhaustive summary is then analysed for redundancy, finding that only one combination of parameters can be estimated.
+This page demonstrates how to detect redundancy in a circuit model, using the RC circuit as a case study. First the transfer function is derived symbolically using Modified Nodal Analysis (MNA), from which all coefficients containing parameters are extracted. This exhaustive summary is then analysed for redundancy, finding that only one combination of parameters can be estimated.
 
 Complete code is available at the bottom of the page.
 
