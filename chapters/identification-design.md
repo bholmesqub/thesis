@@ -5,8 +5,6 @@ title: "Identification problem design and analysis"
 
 # Identification problem design and analysis
 
-## Multi-sine excitation signal MATLAB code
+## [Multi-sine excitation signal MATLAB code]({{site.baseurl}}/chapters/identification-design/multi-sine/)
 
-The code used to generate the multi-sine excitation signal is available below in a github gist.
-
-<script src="https://gist.github.com/bholmesqub/ca679e6c8ea91ecf6c4d373c5ecc2356.js"></script>
+## [Redundancy analysis of an RC circuit using MATLAB]({{site.baseurl}}/chapters/identification-design/redundancy-analysis/)
