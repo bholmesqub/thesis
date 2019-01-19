@@ -9,7 +9,7 @@ title: "Parameter estimation of tone stack and common-emitter circuits"
 
 Here simulated and measured sound examples of the tone stack and common-emitter amplifier are compared. The simulated sets are generated with the optimised parameters presented in the thesis. The objective of these sound examples are to provide some subjective context for readers.
 
-**Measured sound examples have not yet been created, tentative upload date of 21/01/2019.**
+**Measured sound examples of the common-emitter have not yet been created, tentative upload date of 21/01/2019.**
 
 The same sample is used for each circuit, the dry sound of which is:
 
@@ -53,6 +53,72 @@ Your browser does not support the audio element.
     <td>
       <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
         <source src="{{ site.baseurl }}/audio/parameter-estimation/tonestack/sim/clean/tonestack_audio_t_l-b_l.wav" type="audio/wav">
+      Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Guitar -> Tone stack -> Amp Sim</td>
+    <td>
+      <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/tonestack/sim/amp_model/tonestack_audio_t_h-b_h.wav" type="audio/wav">
+      Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/tonestack/sim/amp_model/tonestack_audio_t_h-b_l.wav" type="audio/wav">
+      Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/tonestack/sim/amp_model/tonestack_audio_t_l-b_h.wav" type="audio/wav">
+      Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/tonestack/sim/amp_model/tonestack_audio_t_l-b_l.wav" type="audio/wav">
+      Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
+
+### Measured
+
+<table style="width:100%; table-layout: fixed">
+  <tr>
+    <th></th>
+    <th>t<sub>h</sub>, b<sub>h</sub></th>
+    <th>t<sub>h</sub>, b<sub>l</sub></th>
+    <th>t<sub>l</sub>, b<sub>h</sub></th>
+    <th>t<sub>l</sub>, b<sub>l</sub></th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Guitar -> Tone stack</td>
+    <td>
+      <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/tonestack/meas/clean/tonestack_audio_t_h-b_h.wav" type="audio/wav">
+      Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/tonestack/meas/clean/tonestack_audio_t_h-b_l.wav" type="audio/wav">
+      Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/tonestack/meas/clean/tonestack_audio_t_l-b_h.wav" type="audio/wav">
+      Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/tonestack/meas/clean/tonestack_audio_t_l-b_l.wav" type="audio/wav">
       Your browser does not support the audio element.
       </audio>
     </td>
