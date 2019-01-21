@@ -7,9 +7,7 @@ title: "Parameter estimation of tone stack and common-emitter circuits"
 
 # Sound examples of the two case studies
 
-Here simulated and measured sound examples of the tone stack and common-emitter amplifier are compared. The simulated sets are generated with the optimised parameters presented in the thesis. The objective of these sound examples are to provide some subjective context for readers.
-
-**Measured sound examples of the common-emitter have not yet been created, tentative upload date of 21/01/2019.**
+Here simulated and measured sound examples of the tone stack and common-emitter amplifier are compared. The simulated sets are generated with the optimised parameters presented in the thesis. The objective of these sound examples is to provide some subjective context for readers.
 
 The same sample is used for each circuit, the dry sound of which is:
 
