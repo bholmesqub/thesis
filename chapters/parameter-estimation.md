@@ -161,7 +161,7 @@ Your browser does not support the audio element.
     <th>V<sub>p</sub> = 0.5 V</th>
   </tr>
   <tr>
-    <td style="font-weight: bold;">Guitar -> Tone stack</td>
+    <td style="font-weight: bold;">Guitar -> CE Amplifier</td>
     <td>
       <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
         <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/clean/commonemitter_0V1.wav" type="audio/wav">
@@ -176,7 +176,7 @@ Your browser does not support the audio element.
     </td>
   </tr>
   <tr>
-    <td style="font-weight: bold;">Guitar -> Tone stack -> Amp Sim</td>
+    <td style="font-weight: bold;">Guitar -> CE Amplifier -> Amp Sim</td>
     <td>
       <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
         <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/amp_mod/commonemitter_0V1.wav" type="audio/wav">
@@ -201,7 +201,7 @@ Your browser does not support the audio element.
     <th>V<sub>p</sub> = 0.5 V</th>
   </tr>
   <tr>
-    <td style="font-weight: bold;">Guitar -> Tone stack</td>
+    <td style="font-weight: bold;">Guitar -> CE Amplifier</td>
     <td>
       <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
         <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/meas/clean/commonemitter_0V1.wav" type="audio/wav">
@@ -216,7 +216,7 @@ Your browser does not support the audio element.
     </td>
   </tr>
   <tr>
-    <td style="font-weight: bold;">Guitar -> Tone stack -> Amp Sim</td>
+    <td style="font-weight: bold;">Guitar -> CE Amplifier -> Amp Sim</td>
     <td>
       <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
         <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/meas/amp_mod/commonemitter_0V1.wav" type="audio/wav">
