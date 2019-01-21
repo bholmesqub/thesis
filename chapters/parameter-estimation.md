@@ -159,34 +159,20 @@ Your browser does not support the audio element.
 <table style="width:100%; table-layout: fixed">
   <tr>
     <th></th>
+    <th>V<sub>p</sub> = 0.1 V</th>
     <th>V<sub>p</sub> = 0.5 V</th>
-    <th>V<sub>p</sub> = 1 V</th>
-    <th>V<sub>p</sub> = 2 V</th>
-    <th>V<sub>p</sub> = 4 V</th>
   </tr>
   <tr>
     <td style="font-weight: bold;">Guitar -> Tone stack</td>
     <td>
       <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
-        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/clean/ce_audio_0.5V.wav" type="audio/wav">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/clean/commonemitter_0V1.wav" type="audio/wav">
       Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
-        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/clean/ce_audio_1.0V.wav" type="audio/wav">
-      Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
-        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/clean/ce_audio_2.0V.wav" type="audio/wav">
-      Your browser does not support the audio element.
-      </audio>
-    </td>
-    <td>
-      <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
-        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/clean/ce_audio_4.0V.wav" type="audio/wav">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/clean/commonemitter_0V5.wav" type="audio/wav">
       Your browser does not support the audio element.
       </audio>
     </td>
@@ -195,25 +181,53 @@ Your browser does not support the audio element.
     <td style="font-weight: bold;">Guitar -> Tone stack -> Amp Sim</td>
     <td>
       <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
-        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/amp_model/ce_audio_0.5V.wav" type="audio/wav">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/amp_mod/commonemitter_0V1.wav" type="audio/wav">
       Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
-        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/amp_model/ce_audio_1.0V.wav" type="audio/wav">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/amp_mod/commonemitter_0V5.wav" type="audio/wav">
+      Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
+
+### Measured
+
+<table style="width:100%; table-layout: fixed">
+  <tr>
+    <th></th>
+    <th>V<sub>p</sub> = 0.1 V</th>
+    <th>V<sub>p</sub> = 0.5 V</th>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Guitar -> Tone stack</td>
+    <td>
+      <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/meas/clean/commonemitter_0V1.wav" type="audio/wav">
       Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
-        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/amp_model/ce_audio_2.0V.wav" type="audio/wav">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/meas/clean/commonemitter_0V5.wav" type="audio/wav">
+      Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Guitar -> Tone stack -> Amp Sim</td>
+    <td>
+      <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/meas/amp_mod/commonemitter_0V1.wav" type="audio/wav">
       Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls style="width: 100%; text-align: center; vertical-align: middle;">
-        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/sim/amp_model/ce_audio_4.0V.wav" type="audio/wav">
+        <source src="{{ site.baseurl }}/audio/parameter-estimation/common-emitter/meas/amp_mod/commonemitter_0V5.wav" type="audio/wav">
       Your browser does not support the audio element.
       </audio>
     </td>
