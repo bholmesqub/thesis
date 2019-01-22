@@ -16,6 +16,12 @@ The same sample is used for each circuit, the dry sound of which is:
 Your browser does not support the audio element.
 </audio>
 
+Each measured sample present on this page was recorded using a different Data Acquisition device (DAQ) than was used for those samples used in the identification procedure. These samples used the NI myDAQ, a budget-friendly DAQ, which unfortunately features markedly higher noise which is clear in the recordings of the common-emitter amplifier.
+
+Circuits and models were modified to use different load components, the tone stack not using any load other than the capacitance of the DAQ, and the common-emitter amplifier using a 1 Meg resistor as the high impedance of the myDAQ input caused the output capacitor to float up towards the power rail.
+
+A 9V battery was used for the common-emitter amplifier due to the limitations of the myDAQ, meaning that the power supply voltage was not a known quantity and therefore the may be slight audible differences.
+
 ## Tone stack
 
 ### Simulated
