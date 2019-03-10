@@ -20,7 +20,7 @@ Each measured sample present on this page was recorded using a different Data Ac
 
 Circuits and models were modified to use different load components, the tone stack not using any load other than the capacitance of the DAQ, and the common-emitter amplifier using a 1 Meg resistor as the high impedance of the myDAQ input caused the output capacitor to float up towards the power rail.
 
-A 9V battery was used for the common-emitter amplifier due to the limitations of the myDAQ, meaning that the power supply voltage was not a known quantity and therefore the may be slight audible differences.
+A 9V battery was used for the common-emitter amplifier due to the limitations of the myDAQ, meaning that the power supply voltage was not a known quantity and therefore there may be slight audible differences.
 
 ## Tone stack
 
