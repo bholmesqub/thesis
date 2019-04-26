@@ -43,7 +43,7 @@ For the saturation current:
   I_\mathrm{s} = [27.77,\ 31.67,\ 29.44,\ 20.66],\quad \mathrm{mean}(I_\mathrm{s}) = 27.39,
 \end{equation}
 \begin{equation}
-  100 \times \frac{\mathrm{max}(I_\mathrm{s}) - \mathrm{min}(I_\mathrm{s})}{\mathrm{mean}(I_\mathrm{s})} = 20.1\% .
+  \frac{1}{2} \times 100 \times \frac{\mathrm{max}(I_\mathrm{s}) - \mathrm{min}(I_\mathrm{s})}{\mathrm{mean}(I_\mathrm{s})} = 20.1\% .
 \end{equation}
 </div>
 
