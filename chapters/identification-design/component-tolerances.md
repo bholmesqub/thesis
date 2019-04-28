@@ -7,7 +7,7 @@ title: "Component tolerances in guitar pedals"
 
 To provide a reference for the component tolerances of components in guitar pedals, here 3 images of the Boss DS-1, Dunlop Fuzz Face, and Dallas Rangemaster are presented. Resistors are chosen as a frame of reference as the marking strategy makes the identification of resistance tolerance easy and reliable, and the standard has [existed since 1952](https://webstore.iec.ch/publication/12579).
 
-Analysis of the extracted BJT parameters from Chapter 4 is also provided to determine the range of parameters found in
+Analysis of the extracted BJT parameters from Chapter 4 is also provided to determine the range of parameters found in germanium BJTs, though the small number of devices investigated limits the applicability of the results.
 
 ### Boss DS-1
 
@@ -88,6 +88,6 @@ For the reverse ideality factor:
 
 ### Summary
 
-A variety of different component tolerances may be found in guitar pedals. Only resistors have been investigated due to the difficulty of finding tolerances for capacitors and nonlinear components which are typically omitted from the component packaging. What can be concluded from the resistor tolerances in the above pedals is that the tolerances can vary up to ±10%.
+A variety of different component tolerances may be found in guitar pedals. What can be concluded from the resistor tolerances in the above pedals is that the tolerances can vary up to ±10%, depending on the quality and/or price of the pedal.
 
 From the small set of extracted parameter values of the AC128, nonlinear component tolerances can be up to 70%. Other than the ideality factors, each BJT component parameter has a tolerance worse than that of the resistors in the aforementioned pedals.
